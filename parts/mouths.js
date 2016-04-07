@@ -10,7 +10,7 @@ module.exports = [
     tags: ['all']
   }, {
     value: '益',
-    tags: ['angry']
+    tags: ['angry, upset']
   }, {
     value: '｀ｪ´',
     tags: ['animal']
@@ -58,7 +58,7 @@ module.exports = [
     tags: ['happy', 'love']
   }, {
     value: '︿',
-    tags: ['animal']
+    tags: ['animal' , 'sad']
   }, {
     value: '皿',
     tags: ['angry']
@@ -91,6 +91,6 @@ module.exports = [
     tags: ['serious', 'doubt', 'angry']
   }, {
     value: '⊝',
-    tags: ['bird', 'animal']
+    tags: ['bird', 'animal' , 'serious']
   }
 ];
